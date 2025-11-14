@@ -132,7 +132,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👨‍💻 Geliştirici
 
-**[Adınız]** - [GitHub Profiliniz](https://github.com/salihoglueyup)
+**[Eyüp Zeki Salihoğlu]** - [GitHub Profiliniz](https://github.com/salihoglueyup)
 
 ## 🙏 Teşekkürler
 
